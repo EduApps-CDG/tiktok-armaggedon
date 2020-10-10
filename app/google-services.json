@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "340331662088",
+    "firebase_url": "https://musically-c51f4.firebaseio.com",
+    "project_id": "musically-c51f4",
+    "storage_bucket": "musically-c51f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340331662088:android:3c6c52c4762af402",
+        "android_client_info": {
+          "package_name": "com.ss.android.ugc.trill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340331662088-61f447fe9723aa9c0b67a52eeb998e77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-k6rznRZyo4SO-3n1tIAQvQ7IdyuXUmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340331662088-61f447fe9723aa9c0b67a52eeb998e77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
